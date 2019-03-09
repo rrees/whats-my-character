@@ -13,5 +13,13 @@
   },
   "dependencies": {
     "rrees-js-random": "^1.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrees/whats-my-character.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rrees/whats-my-character/issues"
+  },
+  "homepage": "https://github.com/rrees/whats-my-character#readme"
 }
