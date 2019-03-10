@@ -2,5 +2,7 @@
 const charGenerators = require('./index');
 
  test('result has data', () => {
- 	expect(charGenerators.dnd().data).toHaveProperty('class');
+ 	const data = charGenerators.dnd().data;
+ 	expect(data).toHaveProperty('class');
+ 	expect(data).toHaveProperty('personality');
  })
