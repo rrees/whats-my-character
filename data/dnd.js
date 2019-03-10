@@ -4,17 +4,21 @@ const classes = [
 	"ranger",
 	"bard",
 	"monk",
-	"druid"
+	"druid",
+	"barbarian",
+	"paladin",
 ];
 
 const races = [
-	"drow",
+	"dragonborn",
 	"gnome",
 	"elf",
 	"halfling",
 	"half-orc",
 	"human",
 	"dwarf",
+	"tiefling",
+	"half-elf",
 ];
 
 
