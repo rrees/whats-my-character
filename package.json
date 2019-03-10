@@ -4,7 +4,8 @@
   "description": "Random character generator",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "dnd": "node run.js"
   },
   "author": "",
   "license": "GPL-3.0-or-later",
