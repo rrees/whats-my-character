@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "dnd": "node run.js"
+    "dnd": "node run.js dnd",
+    "pathfinder": "node run.js pathfinder"
   },
   "author": "",
   "license": "GPL-3.0-or-later",
