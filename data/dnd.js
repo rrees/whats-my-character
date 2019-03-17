@@ -7,6 +7,11 @@ const classes = [
 	"druid",
 	"barbarian",
 	"paladin",
+	"warlock",
+	"cleric",
+	"rogue",
+	"sorceror",
+	"wizard",
 ];
 
 const races = [

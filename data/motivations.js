@@ -32,7 +32,7 @@ const ending = [
 const motivations = [
 	"one day from retirement",
 	"seeking to be a healer",
-	"being persued by a vicious crime syndicate",
+	"being pursued by a vicious crime syndicate",
 	...searching,
 	...running,
 	...looking,
